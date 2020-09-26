@@ -23,4 +23,14 @@ Time it takes to run the script is ~10-15 seconds as everything is done on the f
 
 Here are the snapshots by year as examples of how it looks after the script has ran:
 
+**2014**
+
 ![2014](https://github.com/slobanwala1/VBA-challenge/blob/master/my_submission/year_2014_snapshot.PNG)
+
+**2015**
+
+![2015](https://github.com/slobanwala1/VBA-challenge/blob/master/my_submission/year_2015_snapshot.PNG)
+
+**2016**
+
+![2016](https://github.com/slobanwala1/VBA-challenge/blob/master/my_submission/year_2016_snapshot.PNG)
